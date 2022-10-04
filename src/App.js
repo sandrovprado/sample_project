@@ -6,6 +6,7 @@ function App() {
     <>
       <p>hello!</p>
       <h1>This is a new feature</h1>
+      <h2>This is from the new-features branch</h2>
 
     </>
   );
