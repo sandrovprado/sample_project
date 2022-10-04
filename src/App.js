@@ -8,7 +8,7 @@ function App() {
       <h1>This is a new feature</h1>
       <h2>This is another feature</h2>
       <h3>3rd feature has been added</h3>
-
+      <h2>This is from the new-features branch</h2>
 
     </>
   );
